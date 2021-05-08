@@ -1,5 +1,6 @@
+- 👋 Hi, I’m <b>Bibhuti</b>
+
 <img src="https://16mhpx3atvadrnpip2kwi9or-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/CAIS.jpg" width="1200" height="400">
-- 👋 Hi, I’m <b>Bibhuti Bhusan</b>
 <h4>- 👀 Introduce myself as an experienced <b>Data Scientist</b> professional, techie, self motivator, introvert, learner. Passion to solve real world business challenges using analytics and machine leraning.<h4> 
 <h4>- 🌱 Exploring many Deep Learning algorithms, technologies such as Scala, Julia, etc...<h4>
 💞️ - I’m looking to collaborate on any Data Science and Full stack projects.
